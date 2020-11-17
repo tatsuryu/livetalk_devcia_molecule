@@ -4,7 +4,9 @@ class: center, middle
 ---
 #Testes com Molecule
 Testando suas roles de ansible com Molecule
-.footnote[]
+.footnote[
+  [github.com/tatsuryu/livetalk_devcia_molecule](https://github.com/tatsuryu/livetalk_devcia_molecule)
+]
 ---
 layout: false
 .left-column[
