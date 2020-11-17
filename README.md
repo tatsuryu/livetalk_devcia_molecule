@@ -1,6 +1,6 @@
 # Testes com Molecule
 
-Live Talk sobre o [molecule] para o [**DevCia**](https://github.com/DevCia).
+Live Talk sobre o [molecule](https://molecule.readthedocs.io/) para o [**DevCia**](https://github.com/DevCia).
 
 ## Apresentação
 
