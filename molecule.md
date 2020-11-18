@@ -36,7 +36,7 @@ layout: false
 .right-column[
   <br>
   ##[Molecule](https://molecule.readthedocs.io/en/latest/)<br>
-  Projeto mantido atualmente pela comunidado do ansible, com a proposta de para ajudar o desenvolvimento e testes de roles Ansible.
+  Projeto mantido atualmente pela comunidade do ansible, com a proposta de ajudar o desenvolvimento e testes de roles Ansible.
 
   - Escrito em python
   - Configuração em YAML
